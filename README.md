@@ -1,21 +1,24 @@
 # principaisIAs
 Projeto de teste da imersão dev com Google Gemini da Alura, com foco nas 3 ferramentas principais de conversação e produtividade que utilizam IA.
 
-Banco de Dados de IAs
+    **Banco de Dados de IAs**
+
 Este projeto web tem como objetivo criar um banco de dados simples de ferramentas de inteligência artificial. O usuário pode pesquisar por uma ferramenta específica e obter informações como descrição e link para mais detalhes.
 
-Funcionalidades:
+    **Funcionalidades**
 
-Pesquisa: Permite pesquisar por ferramentas de IA utilizando palavras-chave.
-Resultados dinâmicos: Exibe os resultados da pesquisa de forma clara e organizada.
-Links para mais informações: Direciona o usuário para a página oficial de cada ferramenta.
-Responsivo: A interface se adapta a diferentes tamanhos de tela.
-Tecnologias Utilizadas:
+1. **Pesquisa:** Permite pesquisar por ferramentas de IA utilizando palavras-chave.
+2. **Resultados dinâmicos:** Exibe os resultados da pesquisa de forma clara e organizada.
+3. **Links para mais informações:**  Direciona o usuário para a página oficial de cada ferramenta.
+4. **Responsivo:** A interface se adapta a diferentes tamanhos de tela.
 
-HTML: Estrutura da página.
+       **Tecnologias Utilizadas**
+
+**HTML: Estrutura da página.
 CSS: Estilização da página.
 JavaScript: Lógica para a pesquisa e exibição dos resultados.
-Como Usar:
+
+    **Como Usar**
 
 Clone o repositório:
 Bash
@@ -27,7 +30,7 @@ Digite o nome da ferramenta de IA que você deseja pesquisar.
 Clique no botão "Pesquisar".
 Contribuições:
 
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, por favor, abra um issue.
+**Contribuições são bem-vindas!** Se você encontrar algum bug ou tiver alguma sugestão de melhoria, por favor, abra um issue.
 
 Arquivos:
 
